@@ -1,0 +1,3 @@
+plevne,7777
+GOP,8888
+Software,9999
